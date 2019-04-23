@@ -1,0 +1,10 @@
+a=int(input())
+k=0
+n=1
+while(k!=a):
+    for i in range (0,n):
+        print(n,end=" ")
+        k=k+1
+        if(k==a):
+            break
+    n=n+1

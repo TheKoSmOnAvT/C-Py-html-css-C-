@@ -1,0 +1,272 @@
+body{
+    background: url('stars-1246590_1920.jpg') no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* шапка */
+#header{
+    top: 0;
+    position: fixed;
+    background: rgb(43, 47, 94) ;
+    width: 100%;
+    height:14.5%;
+    box-shadow: 0 0 5px 0.5px red;
+}
+.log
+{
+    position: fixed;
+    width: auto;
+    height:10.6%;
+    margin-top: 0.6%;
+    margin-left: 12.7%;
+    max-width: 100%;
+}
+.shapka
+{
+    position: fixed;
+    color: rgb(146, 28, 48);
+    font-style: italic;
+    font-family: Mistral;
+    font-size: 40px;
+    font-weight: 1000;
+    margin-left:19.2%;
+    margin-top: 4.1%;
+    max-width: 100%;
+}
+/* главная часть */
+
+#content{
+    margin-top: 5%;
+    height:auto;
+}
+/* блок в блоке 1 */
+.block{
+   
+}
+.rocketR,
+.rocket{
+    width: auto;
+    height:300px;
+    margin-top: 65px;
+    margin-left: 70px;
+    border: 3px solid #ffffff;
+}
+.rocketR-second,
+.rocket-second
+{
+    width: auto;
+    height:300px;
+    margin-top: 10px;
+    margin-left: 1310px;
+    border: 3px solid #dce7c9;
+}
+.ww{
+    max-width: 100%;
+    float: right;
+    margin-top: 400px;
+    margin-right: 740px;
+color:rgb(255, 255, 255);
+font-size: 38px;
+font-style: italic;
+font-family: FANTASY;
+}
+
+/*  ноги */
+.block_D
+{    color:goldenrod;
+font-size: 25px;
+font-style: italic;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#down{
+    
+    position: relative;
+    bottom: 0;
+    width: 1500px;
+    width: 100%;
+    height: max-content;   
+    background: rgb(43, 47, 94) ;
+    box-shadow: 0 0 5px 0.5px red;
+}
+a
+{
+    color:rgb(218, 116, 32);
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+.legs_txt
+{
+  
+    padding-top: 50px;
+    margin-left: 400px;
+}
+/*  */
+@media screen and (max-width:1680px )
+{
+        .shapka
+        {
+        font-size: 40px;
+        font-weight: 1000;
+        margin-left:22.2%;
+        margin-top: 1%;
+        }
+    } 
+@media screen and (max-width:1680px )
+{
+    .shapka
+    {
+    font-size: 29px;
+    font-weight: 950;
+    margin-left:22%;
+    margin-top: 4.5%;
+    }
+    .rocketR-second,
+    .rocket-second{
+        margin-left:70px;
+        margin-bottom: 20%;
+    }
+.rocketR,
+.rocket,
+.rocketR-second,
+.rocket-second
+{
+    height:270px;
+
+} 
+
+.ww{
+    margin-top: 10px;
+    float: none;
+margin-left: 70px;
+}
+.legs_txt
+{
+  
+    padding-top: 10px;
+    margin-left: 15px;
+}
+}
+@media screen and (max-width:1280px )
+     {
+         .shapka
+        {
+        font-size: 26px;
+        font-weight: 500;
+        margin-left:24%;
+        margin-bottom: 2%;
+        }
+        .rocketR-second,
+    .rocket-second{
+        margin-left:70px;
+        margin-bottom: 20%;
+    }
+.rocketR,
+.rocket,
+.rocketR-second,
+.rocket-second
+{
+    height:270px;
+
+} 
+
+.ww{
+    margin-top: 10px;
+    float: none;
+margin-left: 70px;
+}
+.legs_txt
+{
+  
+    padding-top: 10px;
+    margin-left: 1px;
+}
+    }
+@media screen and (max-width:1024px ) 
+     { 
+     .shapka
+    {
+    font-size: 28px;
+    font-weight: 500;
+    margin-left:27%;
+    margin-top: 10.1%;
+    }
+    .rocketR-second,
+    .rocket-second{
+        margin-left:70px;
+        margin-bottom: 20%;
+    }
+.rocketR,
+.rocket,
+.rocketR-second,
+.rocket-second
+{
+    height:270px;
+
+} 
+
+.ww{
+    margin-top: 10px;
+    float: none;
+margin-left: 70px;
+}
+.legs_txt
+{
+  
+    padding-top: 10px;
+    margin-left: 1px;
+}
+}
+@media screen and (max-width:768px )
+{
+    #content
+    {
+        margin-top:25%;
+    }
+    .shapka
+    {
+    font-size: 30px;
+    font-weight: 500;
+    margin-left:30%;
+    margin-top: 10%;
+    }
+}
+    @media screen and (max-width:600px )
+    { 
+       
+    .shapka
+    {
+        max-width: 100%;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left:34%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    }
+    .rocketR-second,
+    .rocket-second{
+        margin-left:70px;
+        margin-bottom: 20%;
+    }
+.rocketR,
+.rocket,
+.rocketR-second,
+.rocket-second
+{
+    height:270px;
+
+} 
+
+.ww{
+    margin-top: 10px;
+    float: none;
+margin-left: 70px;
+}
+.legs_txt
+{
+  
+    padding-top: 12px;
+    margin-left: 10px;
+}
+    }

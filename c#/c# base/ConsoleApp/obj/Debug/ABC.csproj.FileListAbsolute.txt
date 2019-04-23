@@ -1,0 +1,7 @@
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\obj\Debug\ABC.csprojAssemblyReference.cache
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\PTSU\с#\12\ConsoleApp1\ConsoleApp\obj\Debug\ConsoleApp.pdb

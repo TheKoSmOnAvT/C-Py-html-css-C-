@@ -1,0 +1,40 @@
+
+div.cntr{
+	   margin:0 auto;
+	   width: 70%;
+  height: 20vh;
+}
+.cntr{
+	font-family: 'Oswald', sans-serif;
+}
+h2 {
+    padding-top:1.5em;
+padding-bottom:0.5em;
+}
+h3 {
+    padding-top:1.5em;
+padding-bottom:0.5em;
+}
+h4 {
+    padding-top:1.5em;
+padding-bottom:0.5em;
+}
+h1{
+	font-size:32px;
+}
+table {
+	padding: 1px;
+	border: 1PX solid black;
+}
+td
+{
+	border: 1PX solid black;
+}
+q
+{
+	font-style:italic;
+}
+img
+{
+	 float:right;
+}

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\ptsu\с++\10 laba\laba 10\project1\project1\source.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+d:\ptsu\с++\10 laba\laba 10\project1\project1\source.cpp(99): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+d:\ptsu\с++\10 laba\laba 10\project1\project1\source.cpp(347): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> D:\PTSU\с++\10 laba\laba 10\Project1\Debug\Project1.exe
